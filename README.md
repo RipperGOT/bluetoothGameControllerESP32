@@ -1,3 +1,8 @@
+***Forked for new ESP32 _BLE-GAMEPAD 0.5.x librarys***
+
+***Compiled for 12 buttons and 2 rotary encoders***
+
+
 # bluetoothGameControllerESP32
 Make a bluetooth (ble  >bt4.2) connection with your own buttons, rotary encoders, and/or potentiometers. You can use this for you Simracing or Flight simulator rig.
 
@@ -20,6 +25,8 @@ Credits to lemmingDev as this software is based on this repoistory. (https://git
 Credits to T-vK as this library is based on his ESP32-BLE-Mouse library (https://github.com/T-vK/ESP32-BLE-Mouse) that he provided.
 
 Credits to chegewara as the ESP32-BLE-Mouse library is based on this piece of code that he provided.
+
+Credits to beastdjw, forked from his code (https://github.com/beastdjw/bluetoothGameControllerESP32)
 
 ## Electronics
 All GPIO's uses internal (in the code) and external (gpio 36, 39, 27, 35) pullup restistors(i.e. 10kOhm)
