@@ -2,9 +2,11 @@
 
 ***Compiled for 12 buttons and 2 rotary encoders***
 
-
 # bluetoothGameControllerESP32
 Make a bluetooth (ble  >bt4.2) connection with your own buttons, rotary encoders, and/or potentiometers. You can use this for you Simracing or Flight simulator rig.
+
+![IMG_20240110_143450](https://github.com/RipperGOT/bluetoothGameControllerESP32/assets/86242264/9fbfa1ee-9406-4831-ab86-6b734cb58b53)
+
 
 ## Features
  - [x] Button press (25 buttons)
