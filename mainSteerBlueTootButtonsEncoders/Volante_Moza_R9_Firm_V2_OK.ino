@@ -52,7 +52,7 @@ hw_timer_t * timer = NULL;
 portMUX_TYPE timerMux = portMUX_INITIALIZER_UNLOCKED;
 
 //inititialization knobs
-BleGamepad bleGamepad("Volante R9", "Luis Diaz", 100);
+BleGamepad bleGamepad("Volante R9", "NAME", 100);
 //Buttons
 Button button1(BUTTON1);
 Button button2(BUTTON2);
